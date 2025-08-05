@@ -1,0 +1,29 @@
+# Ignore Obsidian workspace and app files (local UI state)
+.obsidian/app.json
+.obsidian/workspace.json
+
+# Optional: ignore appearance if you want per-device themes
+# .obsidian/appearance.json
+
+# Allow useful config files
+!.obsidian/
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/appearance.json
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Node.js stuff (in case you use plugins with npm)
+node_modules/
+*.log
+
+# Python cache if you use scripts
+__pycache__/
+*.py[cod]
+
+# Backup or temp files
+*.bak
+*.tmp
+*~
