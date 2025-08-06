@@ -1,6 +1,7 @@
 # 🔮 Git Reset, Revert, and Checkout: The Three Paths of Undoing
 
-_"In the realm of version control, there are three sacred arts for correcting the past: the bold rewrite, the gentle reversal, and the graceful navigation between worlds."_
+_"In the realm of version control, there are three sacred arts for correcting the past: the bold rewrite, the gentle reversal, and the graceful navigation between worlds."
+#6AUG25_
 
 ---
 

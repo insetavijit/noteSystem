@@ -1,6 +1,6 @@
 # Git Add: Your Complete Guide to Staging Changes
 
-If you've ever wondered how to control exactly what goes into your Git commits, you're in the right place. The `git add` command is like having a careful editor for your code changes—it lets you choose precisely what to include in each commit, keeping your project history clean and meaningful.
+If you've ever wondered how to control exactly what goes into your Git commits, you're in the right place. The `git add` command is like having a careful editor for your code changes—it lets you choose precisely what to include in each commit, keeping your project history clean and meaningful. #6AUG25
 
 ## Understanding Git's Three-Stage Workflow
 

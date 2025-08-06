@@ -1,6 +1,6 @@
 Great! Let’s **organize your Git learning roadmap** into a **timed, tree-like structure** — with **topics, subtopics, and estimated time per unit**, so you can track and master each part efficiently.
 
-05AUG25 /
+#5AUG25
 
 ---
 ### 🌲 **Phase 1: Git Fundamentals (Weeks 1–4)**
@@ -62,13 +62,13 @@ Great! Let’s **organize your Git learning roadmap** into a **timed, tree-like 
         
     - `git checkout <file>`
         
-- 📄 Stashing Changes (`git stash`) (1h)
+- 📄 [[Stashing Changes]] (`git stash`) (1h)
     
-- 📄 Using Reflog (`git reflog`) (1h)
+- 📄 [[Using Reflog]] (`git reflog`) (1h)
     
-- 📄 Practice: Intentional errors, undo using above commands (3–4h)
+- 📄 [[Practice - Intentional errors, undo using above commands]] (3–4h)
     
-- 📄 Mini Project with Rollbacks (2–3h)
+- 📄 [[Mini Project with Rollbacks]] (2–3h)
     
 
 ---
